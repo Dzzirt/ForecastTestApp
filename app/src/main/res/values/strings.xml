@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ForecastCodeSample</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="percents_format">%d %%</string>
+    <string name="meters_per_second_format">%d m/c</string>
+    <string name="pressure">Pressure</string>
+    <string name="pressure_format">%.2f hpa</string>
+    <string name="visibility">Visibility</string>
+    <string name="meters_format">%d m</string>
+    <string name="wind_direction">Wind direction</string>
+    <string name="sun_date_format">H:m</string>
+    <string name="degree_sign">°</string>
+    <string name="minus">-</string>
+</resources>
